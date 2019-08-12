@@ -1,3 +1,3 @@
-# python-challenge
+# python-challenge for financial company
 
-Exhibit your programming skills with Python by creating scripts to analyze the financial company datasets provided for two challenges 'PyBank' & 'PyPoll'.
+Exhibited Python programming skills by creating scripts to analyze the financial company for 'PyBank' & 'PyPoll'.
